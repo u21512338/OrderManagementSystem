@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagementSystem", "OrderManagementSystem\OrderManagementSystem.csproj", "{BB6B65C2-5741-4982-977A-394335C5530D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB6B65C2-5741-4982-977A-394335C5530D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6B65C2-5741-4982-977A-394335C5530D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6B65C2-5741-4982-977A-394335C5530D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6B65C2-5741-4982-977A-394335C5530D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CC4DDC8-5A71-4822-92E3-5B2E22C10448}
+	EndGlobalSection
+EndGlobal
